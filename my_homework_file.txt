@@ -1,0 +1,82 @@
+no longer empty
+/home/katebog
+├── homework
+│   └── homework1
+│       ├── my_homework.txt
+│       └── my_homework_file.txt
+├── lessons
+│   └── lesson1
+│       ├── greeting.txt
+│       └── test.txt
+└── my_homework.txt
+
+5 directories, 5 files
+ls
+cd ..
+pwd
+ls
+cd /mnt/c/
+ls
+pwd
+ls
+cd \home
+cd ..
+cd \home
+cd /
+/
+ls
+cd bin
+ls
+echo Hello World 
+echo 'привет'
+/
+cd /
+cd /home
+cd \katebog
+cd ..
+cd \home
+cd \katebog
+mkdir lessons
+mkdir .\lesson1\
+cd lessons
+cd lesson1
+mkdir lesson1
+cd lesson1
+echo 'Hello' > gritind.txt
+ls
+less gritind.txt 
+tree
+\tree
+tree gritind.txt 
+tree /
+mv gritind.txt greeting.txt
+ls
+man ls
+tree ./greeting.exe
+ls -ra
+man ls
+echo 'Hyhy' > test.txt
+ls
+ls -l
+man ls
+ls -l -r
+ls -lrt
+cd ..
+cd.. 
+cd ..
+cd /
+sudo apt install git-all
+sudo apt update
+cd /home
+sudo apt install git-all
+ls
+git
+ls
+cd /katebog
+cd katebog
+ls
+cd lessons
+ls
+cd lesson1
+ls
+cd test.txt
