@@ -10,3 +10,130 @@ no longer empty
         └── test.txt
 
 6 directories, 3 files
+    1  ls
+    2  cd ..
+    3  pwd
+    4  ls
+    5  cd /mnt/c/
+    6  ls
+    7  pwd
+    8  ls
+    9  cd \home
+   10  cd ..
+   11  cd \home
+   12  cd /
+   13  /
+   14  ls
+   15  cd bin
+   16  ls
+   17  echo Hello World 
+   18  echo 'привет'
+   19  /
+   20  cd /
+   21  cd /home
+   22  cd \katebog
+   23  cd ..
+   24  cd \home
+   25  cd \katebog
+   26  mkdir lessons
+   27  mkdir .\lesson1\
+   28  cd lessons
+   29  cd lesson1
+   30  mkdir lesson1
+   31  cd lesson1
+   32  echo 'Hello' > gritind.txt
+   33  ls
+   34  less gritind.txt 
+   35  tree
+   36  \tree
+   37  tree gritind.txt 
+   38  tree /
+   39  mv gritind.txt greeting.txt
+   40  ls
+   41  man ls
+   42  tree ./greeting.exe
+   43  ls -ra
+   44  man ls
+   45  echo 'Hyhy' > test.txt
+   46  ls
+   47  ls -l
+   48  man ls
+   49  ls -l -r
+   50  ls -lrt
+   51  cd ..
+   52  cd.. 
+   53  cd ..
+   54  cd /
+   55  sudo apt install git-all
+   56  sudo apt update
+   57  cd /home
+   58  sudo apt install git-all
+   59  ls
+   60  git
+   61  ls
+   62  cd /katebog
+   63  cd katebog
+   64  ls
+   65  cd lessons
+   66  ls
+   67  cd lesson1
+   68  ls
+   69  cd test.txt
+   70  cd homework/homework1
+   71  tree ~ 
+   72  cat my_homework_file.txt 
+   73  cd homework/homework1
+   74  ls
+   75  touch my_empty_file.txt
+   76  ls
+   77  echo 'no longer empty' > my_empty_file.txt 
+   78  cat my_empty_file.txt 
+   79  mv my_empty_file.txt my_homework_file.txt
+   80  ls
+   81  cp my_homework_file.txt ~/homework/
+   82  cd ~
+   83  ls
+   84  cat my_homework.txt
+   85  rm my_homework.txt
+   86  ls
+   87  cd homework1
+   88  ls
+   89  cd ..
+   90  cd homework
+   91  ls
+   92  cd homework1
+   93  ls
+   94  cd ~
+   95  ls
+   96  rm -r homework1
+   97  ls
+   98  rm my_homework_file.txt 
+   99  ls
+  100  cd homework
+  101  ls
+  102  rm my_homework_file.txt 
+  103  cd homework1
+  104  ls
+  105  cp my_homework_file.txt ~/homework/
+  106  cd ~
+  107  ls
+  108  cd homework
+  109  ls
+  110  rm my_homework_file.txt 
+  111  ls
+  112  cd homework1
+  113  ls
+  114  tree ~ >> my_homework_file.txt 
+  115  cat my_homework_file.txt 
+  116  cd homework1_rep
+  117  ls
+  118  cp my_homework_file.txt ~/homework/homework1/homework1_rep
+  119  cp my_homework_file.txt ~/homework/homework1/homework1_rep/
+  120  cd ..
+  121  cp my_homework_file.txt ~/homework/homework1/homework1_rep/
+  122  cd homework1_rep
+  123  ls
+  124  git add my_homework_file.txt 
+  125  git commit -m "add my_homework_file.txt"
+  126  git push -u origin main
+  127  history >> my_homework_file.txt 
